@@ -1,6 +1,6 @@
 # SECJ2203-SOFTWARE-ENGINEERING
 
-# 🚀 Software Engineering (SECJ2203) - Learning Portfolio & Artifact Reflection
+# 🚀 Software Engineering (SECJ2203) - Learning Portfolio & Assignments Reflection
 
 Welcome to my portfolio for the **Software Engineering (SECJ2203 / SECP3204)** course.
 
